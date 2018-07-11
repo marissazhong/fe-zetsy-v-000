@@ -37,3 +37,7 @@ h2 {
 p {
 	color:#555;
 }
+
+body div img {
+	border: 5px solid rgb(155,172,166);	
+}
