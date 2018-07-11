@@ -20,6 +20,6 @@ body {
 
 /* Write all remaining styles here */
 
-body h1 {
+body div.wrapper h1 {
 	font-family: 'Baskerville', serif;
 }
