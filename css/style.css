@@ -50,3 +50,7 @@ body div img {
 footer {
 	float: right;
 }
+
+div {
+	display: block;
+}
