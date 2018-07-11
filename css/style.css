@@ -20,6 +20,6 @@ body {
 
 /* Write all remaining styles here */
 
-h1 {
+body h1 {
 	font-family: 'Libre Baskerville', serif;
 }
